@@ -1,0 +1,9 @@
+tensorflow==2.8.0
+tensorflow-gpu==2.8.0
+torch==1.11.0
+tensorflow-privacy==0.7.3
+datasets==2.1.0
+transformers==4.17.0
+numpy==1.19.2
+scikit-learn==1.0.1
+tqdm==4.64.0
