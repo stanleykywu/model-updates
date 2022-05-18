@@ -1,6 +1,6 @@
 # model-updates
 
-Experiments that explore privacy of model updates. Our attacks are shown effective using update information to give the adversary a significant advantage over attacks on standalone models, but also compared to a prior MI attack that takes advantage of model updates in a related machine-unlearning setting.
+Experiments that explore privacy of model updates. Our attacks are shown effective using update information to give the adversary a significant advantage over attacks on standalone models, but also compared to a prior MI attack that takes advantage of model updates in a related machine-unlearning setting. The full paper can be found here: https://arxiv.org/abs/2205.06369
 
 ## How to Reproduce Paper Figures and Results
 
