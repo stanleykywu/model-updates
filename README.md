@@ -31,3 +31,16 @@ All results can be reproduced by running pre-written scripts from the root direc
 
 1. `python script_IMDB_complete.py`
    Generates results for both single update and multi-update for the IMDb dataset. Head to the the respective notebooks to plot all figures after script completes.
+
+## Citation
+
+If you publish work that uses code from this repository, please cite as follows:
+
+```bibtex
+@article{jagielski2022combine,
+  title={How to Combine Membership-Inference Attacks on Multiple Updated Models},
+  author={Jagielski, Matthew and Wu, Stanley and Oprea, Alina and Ullman, Jonathan and Geambasu, Roxana},
+  journal={arXiv preprint arXiv:2205.06369},
+  year={2022}
+}
+```
